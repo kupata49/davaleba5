@@ -1,0 +1,178 @@
+.hed {color: #000;
+font-family: Roboto;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-block;
+margin-right: 35px;
+}
+.konteineri{
+    width: 1186px; 
+    margin: auto;
+    
+}
+.guga{
+    margin-top: 11px;
+}
+.sat{
+    color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 40px;
+}
+.sur{
+    
+    width: 362px;
+    height: 186px;
+    flex-shrink: 0;
+    border-radius: 5px 5px 0px 0px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    display: inline-block;
+     margin-top: 27px;
+     margin-bottom: none;
+
+}
+#sur{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.ruk{
+    background: #F1F1F1;
+}
+.patbox{
+    width: 362px;
+height: 169px;
+border-radius: 0px 0px 5px 5px;
+background: #FFF;
+margin-top: none;
+display: inline-block;
+vertical-align: top;
+
+
+}
+.raga{
+    color: #8A8787;
+font-family: Roboto;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 37px;
+margin-top: 68px;
+margin-right: 87px;
+
+}
+.patbox1{
+    width: 362px;
+    height: 169px;
+    border-radius: 0px 0px 5px 5px;
+    background: #FFF;
+    margin-top: none;
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+    vertical-align: top;
+}
+.ragaf{
+    width: 16px;
+height: 16px;
+border-radius: 16px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+display: inline-block;
+margin-left: 40px;
+margin-top: 11px;
+margin-right: 11px;
+}
+.ragad{
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    
+}
+.sur3{
+    
+    width: 758px;
+height: 430px;
+border-radius: 5px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+margin-top: 35px;
+display: inline-block;
+}
+.sur4{
+    width: 362px;
+height: 212px;
+border-radius: 5px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+display: inline-block;
+margin-bottom: 98px;
+}
+#sur7{
+    display: inline-block;
+    width: 758px;
+}
+#sur8{
+    display: inline-block;
+    width: 362px;
+    margin-top: 15px;
+    margin-left: 45px;
+    
+
+}
+header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: #F1F1F1;
+}
+.footer{
+    height: 200px;
+    width: auto;
+    background: #243043;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+footer{
+    background: #243043;
+    
+}
+.hom{
+    color: #818687;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 14px;
+
+}
+.fodi{
+    display: inline-block;
+    margin-top: 60px;
+    margin-right: 70px;
+}
+.stay{
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+vertical-align: top;
+margin-top: 60px;
+}
+.fofo{
+    width: 38px;
+height: 40px;
+
+margin-top: 60px;
+margin-left: 420px;
+}
